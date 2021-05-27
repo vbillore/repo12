@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7855-C847
+
+ Directory of C:\Users\Aarunya\Desktop\GIT-project
+
+05/27/2021  07:19 PM    <DIR>          .
+05/27/2021  07:19 PM    <DIR>          ..
+05/27/2021  07:19 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  39,414,083,584 bytes free
